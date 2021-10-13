@@ -1,0 +1,104 @@
+.header{
+    width: 1357px;
+    height: 70px;
+    background-color: black;
+}
+.logo{
+    color:blanchedalmond;
+    font-size: 40px;
+    float:initial;
+    text-overflow:ellipsis;
+    padding: 25px;
+    text-decoration-color: lightseagreen;
+    margin: 10px;
+}
+.active{
+    color: blanchedalmond;
+    background-color: cadetblue;
+    font-size: 20px;
+    border-radius: 5px;
+    float:inherit;
+    padding: 5px;
+}
+.default{
+    color: blanchedalmond;
+    background-color: cadetblue;
+    font-size: 20px;
+    border-radius: 5px;
+    float:right;
+    padding: 5px;
+    margin: 10px;
+}
+.sub1{
+    color: blanchedalmond;
+    background-color: cadetblue;
+    font-size: 20px;
+    border-radius: 5px;
+    float: right;
+    padding: 5px;
+    margin: 10px;
+}
+.sub2{
+    color: blanchedalmond;
+    background-color: cadetblue;
+    font-size: 20px;
+    border-radius: 5px;
+    float: right;
+    padding: 5px;
+    margin: 10px;
+}
+.foto{
+    background-color: rgb(235, 243, 243);
+}
+.foto1{
+    
+    float: right;
+}
+.container{
+    width: 1375px;
+    background-color:rgb(251, 249, 245);
+    padding: 5px;
+    display: flex;
+    flex-direction: row; justify-content: center; align-items: center;
+}
+.container ul{
+    padding: 0px;
+    margin:0px;
+}
+.container ul li{
+    list-style: none;
+    float:left;
+    width:250px;
+    background-color: rgb(27, 26, 26);
+    height: 300px;
+   
+    margin: 75px;
+    margin-right: 20px;
+
+    }
+.container ul li .titulo{
+    width: 250px;
+    height: 30px;
+    line-height: 30px;
+    background-color: rgb(77, 147, 207);
+    text-align: center;
+}
+.footer{
+    background-color: black;
+    width: 1375px;
+    height: 40px;
+    color: azure;
+    font-size: 15px;
+    text-align: center;
+    margin: 0px;
+
+}
+
+
+    
+
+
+
+   
+  
+    
